@@ -24,7 +24,16 @@ cd python-project-49
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 
----
+### Brain Even — проверка на чётность
+
+Игроку необходимо определить, является ли предложенное число чётным.
+Для победы нужно правильно ответить на три вопроса подряд.
+
+Запуск игры:
+
+`brain-even`
+
+[![asciicast](https://asciinema.org/a/rT6VYOYYcTlICh2c.svg)](https://asciinema.org/a/rT6VYOYYcTlICh2c)
 
 <details>
 <summary>Автоматические тесты Хекслета</summary>
